@@ -1,4 +1,12 @@
-#Folder Structure, Instruction to setup the web application, brief about data and technology stack used
+# Microsoft Azure Hackathon for working professionals
+
+This hackathon is aimed at developing solutions using Microsoft Azure for Developers.
+
+Microsoft Azure is a flexible, scalable, and full-featured cloud platform. If you can imagine it, you can build it on Azure, using the tools, languages and frameworks you’re already familiar with. Python, JavaScript, Java, .NET - you can run them all on Azure! You are expected to build innovative solutions and products for the hackathon using the services provided by Azure.
+
+
+
+# Folder Structure, Instruction to setup the web application, brief about data and technology stack used
 
 a) Project folder structure
 

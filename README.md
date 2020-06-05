@@ -79,11 +79,7 @@ Gradient Boost Model
 e) Next Steps
 Improve the prediction model by implying more models like Netural Network models etc. Also adjust parameters to improve the accuracy and upgrade from Flask to other secured frameworks.
 
-f) Team
-Tushar Sethi
-Priyank Jha
-Arnav Bhargava
-
+For full project code please contact me on : +91-9953-569-579 or tushar.sethi@hotmail.com
 
 
 
